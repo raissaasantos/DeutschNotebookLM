@@ -4,7 +4,7 @@ A personal **NotebookLM** curated from the German classes and learning materials
 This project serves as a centralized space to organize notes, reinforce vocabulary, and deepen my understanding of the German language through AI-assisted study and reflection.
 
 🔗 **Access the notebook:**
-https://notebooklm.google.com/notebook/17c438cc-74fa-42f3-9eb9-732ca32e5fda?authuser=2
+  [Click here](https://notebooklm.google.com/notebook/17c438cc-74fa-42f3-9eb9-732ca32e5fda?authuser=2)
 
 ---
 
